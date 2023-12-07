@@ -1,4 +1,4 @@
-# Computer_vision
+# Computer_visio
 
 Computer vision is a field of study within artificial intelligence and computer science that focuses on enabling computers to gain high-level understanding from digital images or videos. By mimicking the human visual system, computer vision algorithms aim to extract meaningful information, recognize patterns, and make decisions based on visual data.
 
